@@ -1,0 +1,5 @@
+PAM - Gerador de Senhas: https://snack.expo.dev/@gian-pablo/pam--gerador-de-senhas
+
+PAM - Cronometro: https://snack.expo.dev/@gian-pablo/pam---cronometro
+
+PAM - Comprador de Tempo: https://snack.expo.dev/@gian-pablo/pam---comprador-de-tempo
